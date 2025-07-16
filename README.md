@@ -1,14 +1,22 @@
-# API Tools Lab
-Bu repoda çeşitli API’leri kullanarak geliştirdiğim küçük ama işlevsel Python projelerini bulabilirsiniz.
+# 🧪 API Tools Lab
 
-## Projeler:
-### 1. Weather Fetcher (Nominatim + Open-Meteo API)
-- Belirttiğiniz şehir için saatlik hava tahmini verir.
+Bu depo, farklı API servislerini kullanarak geliştirdiğim basit Python tabanlı araçları içerir.
 
-### 2. Simple Note App (Python File I/O)
-- Terminalden not alır, gösterir, siler.
+## Amaç
+- API kullanımı pratiği yapmak
+- Gerçek dünya problemlerine küçük çözümler üretmek
+- Öğrenirken ürün ortaya koymak
 
-### 3. Weekly Planner (OpenAI + LLM)
-- GPT destekli kişisel haftalık planlama aracı
+## İçerik
 
-Her biri farklı bir API yaklaşımını öğrenmek, test etmek ve üretkenlikle birleştirmek için oluşturuldu.
+| **weather-fetcher** | Şehir ismine göre saatlik hava durumu verisi getirir | Python, Open-Meteo API, Nominatim |
+| **note-app** | Terminal üzerinden not alma, gösterme, silme | Python, File I/O |
+| **weekly-planner** | OpenAI ile haftalık kişisel planlayıcı oluşturur | Python, OpenAI API, LLM |
+
+## Neden Bu Projeler?
+Bu araçlar, hem kişisel ihtiyaçlarıma cevap vermek hem de Python'da API kullanımı, veri işleme ve dosya yönetimi üzerine pratik yapmak için geliştirildi
+
+---
+
+ Daha fazla proje için...
+[[linkedin.com/in/hamdicakir](https://linkedin.com/in/hamdicakir)  ](https://www.linkedin.com/in/hamdicakir/)
