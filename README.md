@@ -1,6 +1,6 @@
 # 🧪 API Tools Lab
 
-Bu depo, farklı API servislerini kullanarak geliştirdiğim basit Python tabanlı araçları içerir.
+Bu repo, farklı API servislerini kullanarak geliştirdiğim basit Python tabanlı araçları içerir.
 
 ## Amaç
 - API kullanımı pratiği yapmak
