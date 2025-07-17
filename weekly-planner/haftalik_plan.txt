@@ -1,36 +1,42 @@
-**Hamdi için 7 Günlük Çalışma Planı:**
+**Hafta 1: Çalışma Planı**
+  
+**Gün 1: Pazartesi**
+- 09:00 - 11:00: LLM konusunda araştırma yap
+- 14:00 - 16:00: Prompt Engineering konusunda pratik yap
 
-**Pazartesi:**
-- Sabah: LLM konularına odaklan.
-- Öğleden sonra: Mimari projeler üzerinde çalış.
-*Kendine güven, kararlılıkla yeni bir başlangıç yap!*
+Motivasyon: Bugün LLM konusunda adım adım ilerleyerek yeni bilgiler edineceksin.  
+ 
+**Gün 2: Salı**
+- 10:00 - 12:00: LLM üzerine bir proje geliştir
+- 15:00 - 17:00: Prompt Engineeirng konusunu derinlemesine incele
 
-**Salı:**
-- Sabah: LLM'ye devam et, notlar al.
-- Öğleden sonra: Prompt Engineering çalışmalarına başla.
-*Bugün hem detaylara odaklan, hem de büyük resmi gözden kaçırma!*
+Motivasyon: Kendini bugün yaratıcı düşünmeye ve konuları daha derinden keşfetmeye odakla.  
+ 
+**Gün 3: Çarşamba**
+- 09:30 - 11:30: LLM için bir algoritma oluştur
+- 14:30 - 16:30: Prompt Engineering uygulamaları üzerinde çalış
 
-**Çarşamba:**
-- Sabah: Mimari projeleri geliştir, fikirlerini detaylandır.
-- Öğleden sonra: Prompt Engineering'le ilgili problemleri çöz.
-*İdeallerine daha da yaklaşmak için bugün daha sıkı çalış!*
+Motivasyon: Bugün problem çözme becerilerini geliştireceksin, hedefine bir adım daha yaklaşacaksın.  
+ 
+**Gün 4: Perşembe**
+- 10:00 - 12:00: LLM'de güncel gelişmeleri takip et
+- 15:00 - 17:00: Prompt Engineering konusunda kendi çalışmanı oluştur
 
-**Perşembe:**
-- Sabah: LLM'de zorlu konuları gözden geçir.
-- Öğleden sonra: Prompt Engineering üzerinde denemeler yap.
-*Hedeflerine ulaşmak için azimle çalışmaya devam et!*
+Motivasyon: Kendi projelerine odaklanarak bu alanda kendini daha da geliştirebileceksin.  
+ 
+**Gün 5: Cuma**
+- 09:30 - 11:30: LLM ve Prompt Engineering konularını karşılaştır
+- 14:30 - 16:30: Öğrendiklerini gözden geçir, konular arasında bağlantılar kur
 
-**Cuma:**
-- Sabah: Mimari projelerdeki ilham verici detaylara odaklan.
-- Öğleden sonra: Prompt Engineering'le ilgili kapsamlı bir araştırma yap.
-*Haftayı güçlü bir şekilde tamamla ve kendini geliştirmeye devam et!*
+Motivasyon: Bugün farklı konuları karşılaştırarak, öğrendiğin bilgileri daha iyi pekiştireceksin.  
+ 
+**Gün 6: Cumartesi**
+- 10:00 - 12:00: LLM projesini ilerlet
+- 15:00 - 17:00: Prompt Engineering'de yeni bir teknik deneyerek pratik yap
 
-**Cumartesi:**
-- Sabah: Kendin için zaman ayır, nefes al ve dinlen.
-- Öğleden sonra: LLM ve Prompt Engineering konularını hafifçe gözden geçir.
-*Kendini şımartarak, önümüzdeki haftaya daha motive bir şekilde başla!*
+Motivasyon: Bu hafta içinde öğrendiklerini uygulayarak daha da ilerleme kaydedeceksin.  
+ 
+**Gün 7: Pazar**
+- Dinlen ve haftalık değerlendirme yap. Gelecek haftanın hedeflerini belirle.
 
-**Pazar:**
-- Sabah: Planlarını gözden geçir, yeni hedefler belirle.
-- Öğleden sonra: Haftanın özeti ve gelecek planlaması yap.
-*Yeni haftaya hazırlıklı ve planlı başlamak için bugünü verimli bir şekilde geçir!*
+Motivasyon: Dinlenerek yeni haftaya zinde ve enerjik başlamak için hazırlıklar yap.

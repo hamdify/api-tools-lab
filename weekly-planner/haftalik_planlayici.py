@@ -41,10 +41,11 @@ try:
     plan = chat_completion.choices[0].message.content
     print("\n📅 Haftalık Planın:\n")
     print(plan)
+
     # Dosyaya kaydetme
-    with open("haftalik_plan.txt", "w", encoding="utf-8") as f:
+    with open("weekly-planner/haftalik_plan.txt", "w", encoding="utf-8") as f:
         f.write(plan)
-    print("\n✅ Plan başarıyla 'haftalik_plan.txt' dosyasına kaydedildi.")
+    print("✅ Plan başarıyla 'weekly-planner/haftalik_plan.txt' dosyasına kaydedildi.")
 
 except Exception as e:
     print("❌ Hata oluştu:", e)
