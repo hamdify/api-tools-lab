@@ -2,12 +2,14 @@ import openai
 import os
 from dotenv import load_dotenv
 
-# API anahtarını yükleme
+# OpenRouter API ayarlama
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENROUTER_API_KEY")
 
-# OpenAI istemcisini oluşturma
-client = openai.OpenAI(api_key=api_key)
+client = openai.OpenAI(
+    api_key=api_key,
+    base_url="https://openrouter.ai/api/v1"
+)
 
 # Kullanıcıdan bilgi alma
 isim = input("Adınız: ")
@@ -26,10 +28,10 @@ Bu kullanıcı için 7 günlük detaylı bir çalışma planı oluştur. Her gü
 Yalnızca madde madde, açık ve sade yaz.
 """
 
-# ChatGPT'ye isteği gönderme
+# API isteği
 try:
     chat_completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="openai/gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "Sen yapıcı ve disiplinli bir AI planlayıcısın."},
             {"role": "user", "content": prompt}
@@ -39,7 +41,6 @@ try:
     plan = chat_completion.choices[0].message.content
     print("\n📅 Haftalık Planın:\n")
     print(plan)
-
     # Dosyaya kaydetme
     with open("haftalik_plan.txt", "w", encoding="utf-8") as f:
         f.write(plan)
