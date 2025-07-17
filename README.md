@@ -9,14 +9,16 @@ Bu repo, farklı API servislerini kullanarak geliştirdiğim basit Python tabanl
 
 ## İçerik
 
-| **weather-fetcher** | Şehir ismine göre saatlik hava durumu verisi getirir | Python, Open-Meteo API, Nominatim |
-| **note-app** | Terminal üzerinden not alma, gösterme, silme | Python, File I/O |
-| **weekly-planner** | OpenAI ile haftalık kişisel planlayıcı oluşturur | Python, OpenAI API, LLM |
+**weather-fetcher** | Şehir ismine göre saatlik hava durumu verisi getirir | Python, Open-Meteo API, Nominatim
+
+**note-app** | Terminal üzerinden not alma, gösterme, silme | Python, File I/O
+
+**weekly-planner** | OpenAI ile haftalık kişisel planlayıcı oluşturur | Python, OpenRouter/OpenAI API, LLM |
 
 ## Neden Bu Projeler?
 Bu araçlar, hem kişisel ihtiyaçlarıma cevap vermek hem de Python'da API kullanımı, veri işleme ve dosya yönetimi üzerine pratik yapmak için geliştirildi
 
 ---
 
- Daha fazla proje için...
-[[linkedin.com/in/hamdicakir](https://linkedin.com/in/hamdicakir)  ](https://www.linkedin.com/in/hamdicakir/)
+Daha fazla proje için...
+linkedin.com/in/hamdicakir
